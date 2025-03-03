@@ -1,6 +1,6 @@
 <div align="center">
   
-### DiscordMusicBot
+### DiscordMusicBot>
 
 [<img src="https://img.shields.io/badge/프로젝트 기간-2025.01.08~2025.01.20.-green?style=flat&logo=&logoColor=white" />]()
 
@@ -20,6 +20,14 @@
 
 
 ### 화면 구성
-|Screen #1|재생중인 노래가 없을 시|
+|재생중인 노래가 있을 시|재생중인 노래가 없을 시|
 |:---:|:---:|
-<img src=""/>
+|<img src="https://github.com/Kyuk99/ReadmeImage/blob/main/%EC%97%90%EC%8B%9C2.PNG" width="400"/>|<img src="https://github.com/Kyuk99/ReadmeImage/blob/main/%EB%85%B8%EB%9E%98%EA%B0%80%20%EC%9E%AC%EC%83%9Dx.PNG" width="400"/>|
+
+
+### 🗂️ API 설계
+
+👉🏻 [DiscordBot](https://discord.com/developers/applications)
+
+
+👉🏻 [YouTubeApi](https://console.cloud.google.com/)
