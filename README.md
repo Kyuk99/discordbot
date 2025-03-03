@@ -1,6 +1,6 @@
 <div align="center">
   
-### DiscordMusicBot>
+### DiscordMusicBot
 
 [<img src="https://img.shields.io/badge/프로젝트 기간-2025.01.08~2025.01.20.-green?style=flat&logo=&logoColor=white" />]()
 
